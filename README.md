@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Ken</a></h1>
-<h3 align="center">A passionate Web Developer in Indonesia</h3>
+<h3 align="center">A passionate Web Developer in Indonesia &#127470;&#127475</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -14,11 +14,11 @@ Ken</a></h1>
 
 - 🌱 I’m currently learning PHP and Laravel
 
-<!-- - 💬 Ask me about **Web Development** -->
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **ken100840@gmail.com**
 
-- 📄 Know about my experiences <a href="#" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
